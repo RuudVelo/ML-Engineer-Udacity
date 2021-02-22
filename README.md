@@ -14,17 +14,17 @@ Examples of the three datafiles are in the **data_examples** folder.
 
 In order to run this project, you will need to run the Jupyter Notebooks in the proper order. The notebooks can be found in the folder **notebooks**. The notebooks are:
 
-[**0. Data exploration.ipynb**](0.%20Data%20exploration.ipynb): Includes data sourcing and visualizations, basic univariate and bivariate relations
+[**0. Data exploration.ipynb**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/notebooks/0.%20Data%20exploration.ipynb): Includes data sourcing and visualizations, basic univariate and bivariate relations
 
-[**1. Data processing.ipynb**](1.%20Data%20processing.ipynb): Processes the data, mainly looking at anomalies
+[**1. Data processing.ipynb**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/notebooks/1.%20Data%20processing.ipynb): Processes the data, mainly looking at anomalies
 
-[**2. Feature engineering.ipynb**](2.%20Feature%20engineering.ipynb): Creates features for modelling
+[**2. Feature engineering.ipynb**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/notebooks/2.%20Feature%20engineering.ipynb): Creates features for modelling
 
-[**3. Feature engineering and selection.ipynb**](3.%20Feature%20engineering%20and%20selection.ipynb): Variety of techniques used to select features
+[**3. Feature engineering and selection.ipynb**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/notebooks/3.%20Feature%20engineering%20and%20selection.ipynb): Variety of techniques used to select features
 
-[**4. Modelling.ipynb**](4.20%Modelling.ipynb): Modelling process using several cross-validation methods, model comparisons and final model
+[**4. Modelling.ipynb**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/notebooks/4.%20Modelling.ipynb): Modelling process using several cross-validation methods, model comparisons and final model
 
-[**5. Training stress calculations.ipynb**](5.%20Training%20stress%20calculations.ipynb): Compares heart rate dynamics model results to predict stress versus a simple aggregate model
+[**5. Training stress calculations.ipynb**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/notebooks/5.%20Training%20stress%20calculations.ipynb): Compares heart rate dynamics model results to predict stress versus a simple aggregate model
 
 Also the project makes use of processing and plotting functions which can be found in the folder **python_code_files**
 

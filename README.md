@@ -12,14 +12,19 @@ Examples of the three datafiles are in the **data_examples** folder.
 
 #### Code
 
-In order to run this project, you will need to run the Jupyter Notebooks in the proper order. The notebooks can be found in the folder **notebooks**. The notebook are:
+In order to run this project, you will need to run the Jupyter Notebooks in the proper order. The notebooks can be found in the folder **notebooks**. The notebooks are:
 
-- 0. Data exploration.ipynb
-- 1. Data processing.ipynb
-- 2. Feature engineering.ipynb
-- 3. Feature exploration and selection.ipynb
-- 4. Modelling.ipynb
-- 5. Training stress calculations.ipynb
+[**0. Data exploration.ipynb**](0.%20Data%20exploration.ipynb): Includes data sourcing and visualizations, basic univariate and bivariate relations
+
+[**1. Data processing.ipynb**](1.%20Data%20processing.ipynb): Processes the data, mainly looking at anomalies
+
+[**2. Feature engineering.ipynb**](2.%20Feature%20engineering.ipynb): Creates features for modelling
+
+[**3. Feature engineering and selection.ipynb**](3.%20Feature%20engineering%20and%20selection.ipynb): Variety of techniques used to select features
+
+[**4. Modelling.ipynb**](4.20%Modelling.ipynb): Modelling process using several cross-validation methods, model comparisons and final model
+
+[**5. Training stress calculations.ipynb**](5.%20Training%20stress%20calculations.ipynb): Compares heart rate dynamics model results to predict stress versus a simple aggregate model
 
 Also the project makes use of processing and plotting functions which can be found in the folder **python_code_files**
 

@@ -44,7 +44,7 @@ Since also intermediate results are saved during or at the end of the notebooks 
 
 ### Report
 
-Next to code also explanations are given in the notebooks at the beginning and during processing steps. In addition, there is a [**report**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/report/report.pdf) available. Als a [**proposal.pdf**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/report/proposal.pdf) is available in that folder. We encourage the reader to read this for more context on the project.
+Next to code also explanations are given in the notebooks at the beginning and during processing steps. In addition, there is a [**report**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/report/report.pdf) available. Als a [**proposal**](https://github.com/RuudVelo/ML-Engineer-Udacity/blob/main/report/proposal.pdf) is available in that folder. We encourage the reader to read this for more context on the project.
 
 ### Abstract
 
